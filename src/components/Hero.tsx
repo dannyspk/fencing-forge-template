@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import heroFence from "@/assets/hero-fence.jpg";
 
-const ease = [0.25, 0.1, 0.25, 1];
+const ease = [0.25, 0.1, 0.25, 1] as const;
 
 export const Hero = () => (
   <section className="relative min-h-[80vh] flex items-center pt-20 overflow-hidden bg-background">

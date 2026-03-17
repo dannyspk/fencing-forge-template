@@ -19,7 +19,7 @@ const services = [
   },
 ];
 
-const ease = [0.25, 0.1, 0.25, 1];
+const ease = [0.25, 0.1, 0.25, 1] as const;
 
 export const Services = () => (
   <section className="py-24 bg-muted/50">
