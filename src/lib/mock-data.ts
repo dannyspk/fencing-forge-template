@@ -763,6 +763,7 @@ export const mockLocations: WPLocation[] = [
       state_abbr: "TX",
       hero_headline: "#1 Trusted Fort Worth Fence Company",
       hero_subheadline: "Quality fence installation in Fort Worth, TX — wood, iron, chain link, and more.",
+      hero_image_url: "https://placehold.co/1200x800/1a2332/ffffff?text=Fort+Worth+Fence",
       intro_text:
         "From the historic Near Southside to the suburbs of Keller and Southlake, FenceCo installs beautiful, long-lasting fences across the entire Fort Worth metro area.",
       faqs: [
@@ -787,6 +788,7 @@ export const mockLocations: WPLocation[] = [
       state_abbr: "TX",
       hero_headline: "#1 Trusted Plano Fence Company",
       hero_subheadline: "HOA-compliant fence installation in Plano, TX — free estimates, 3-year warranty.",
+      hero_image_url: "https://placehold.co/1200x800/1a2332/ffffff?text=Plano+Fence",
       intro_text:
         "Plano has some of the strictest HOA fence requirements in the DFW metroplex. FenceCo knows the local codes inside and out — we ensure every fence we build in Plano passes HOA review and city inspection.",
       faqs: [
@@ -811,6 +813,7 @@ export const mockLocations: WPLocation[] = [
       state_abbr: "TX",
       hero_headline: "Frisco Fence Company — Fast & Professional Installation",
       hero_subheadline: "Serving Frisco homeowners with cedar, wrought iron, and chain link fences built to code.",
+      hero_image_url: "https://placehold.co/1200x800/1a2332/ffffff?text=Frisco+Fence",
       intro_text:
         "We help Frisco homeowners and builders with new installs, repairs, and gate automation. Our team handles HOA specs, permit guidance, and clean job sites.",
       faqs: [
@@ -834,6 +837,7 @@ export const mockLocations: WPLocation[] = [
       state_abbr: "TX",
       hero_headline: "Richardson Fence Company You Can Trust",
       hero_subheadline: "Quality fencing for Richardson homes and commercial properties — on time and on budget.",
+      hero_image_url: "https://placehold.co/1200x800/1a2332/ffffff?text=Richardson+Fence",
       intro_text:
         "From fence replacements to custom gates, Texas Select Fencing serves Richardson with responsive service and premium materials.",
       faqs: [
@@ -942,6 +946,14 @@ export const mockHomePage: WPPage = {
     hero_cta_secondary: "Call Us",
     hero_image_url: "https://cdn.prod.website-files.com/62c785fe02fc516f0ee97490/647cbf98df963a10c43bfe8d_horizontal-3-min.jpg",
     hero_image_alt: "Fence installation in Dallas Texas",
+    why_us_items: [
+      { icon: "🏆", title: "20+ Years Experience", description: "Two decades of fence installation across DFW." },
+      { icon: "🛡️", title: "3-Year Warranty", description: "Every install backed by our industry-leading warranty." },
+      { icon: "👤", title: "Owner-Operated", description: "Dan is on every job — not a subcontractor." },
+      { icon: "💳", title: "Financing Available", description: "Flexible payment options to fit your budget." },
+      { icon: "🏠", title: "Small Business", description: "Local DFW company that stands behind its work." },
+      { icon: "💰", title: "Competitive Pricing", description: "Fair, transparent quotes with no surprises." },
+    ],
     service_areas_intro:
       "We operate all throughout the Dallas–Fort Worth Metroplex, serving Dallas, Collin, and Denton counties.",
     phone_primary: "(214) 558-9169",
