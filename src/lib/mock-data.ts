@@ -738,6 +738,7 @@ export const mockLocations: WPLocation[] = [
       state_abbr: "TX",
       hero_headline: "#1 Trusted Dallas Fence Company",
       hero_subheadline: "Expert fence installation for cedar, chain link, wrought iron, and privacy fencing — backed by a 3-year warranty.",
+      hero_image_url: "https://cdn.prod.website-files.com/62c785fe02fc516f0ee97490/6638fb18912102b283b96fca_Ralph_8_BOB_Cedar_-_Top_Cap_-_Double_Trim_-_Corbels-25-min.avif",
       intro_text:
         "FenceCo has proudly served Dallas homeowners and businesses for over a decade. Whether you need a cedar privacy fence for your backyard or a commercial security fence for your property, our team delivers quality craftsmanship on time and on budget.",
       faqs: [
