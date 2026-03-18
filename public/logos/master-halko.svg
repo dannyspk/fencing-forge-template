@@ -1,0 +1,7 @@
+<svg width="280" height="84" viewBox="0 0 280 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="84" rx="10" fill="#F7F7F7"/>
+  <rect x="12" y="16" width="40" height="52" rx="4" fill="#E0E0E0"/>
+  <path d="M20 28h8v28h-8V28zm12 0h8v28h-8V28zm12 0h8v28h-8V28z" fill="#B0B0B0"/>
+  <text x="68" y="46" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6B6B6B">MASTER</text>
+  <text x="68" y="66" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#6B6B6B">HALCO</text>
+</svg>
