@@ -5,6 +5,9 @@ const nextConfig = {
   // Silence the workspace-root warning caused by a parent-level lockfile
   outputFileTracingRoot: path.join(__dirname),
 
+  // Output to 'dist' for the hosting platform
+  distDir: "dist",
+
   // Serve modern image formats (avif → webp fallback) for better LCP
   images: {
     formats: ["image/avif", "image/webp"],
